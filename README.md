@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anıl Alper
-- I’m interested in Machine Learning and Data Science
-- I’m currently learning Operating Systems and C 
-- I’m looking to collaborate on AI projects. 
+- I am interested in Machine Learning and Data Science
+- I am currently learning Operating Systems and C 
+- I am looking to collaborate on AI projects. 
 
 <!---
 anilalperr/anilalperr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
