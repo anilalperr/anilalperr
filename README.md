@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anıl Alper
 - I am interested in Machine Learning and Data Science
-- I am currently learning Operating Systems and C 
+- I am currently learning Operating Systems and Parallel Programming 
 - I am looking to collaborate on AI projects. 
 
 <!---
