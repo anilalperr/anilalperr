@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anıl Alper
 - Interests: Machine Learning and Data Science
-- Learning Operating Systems and Parallel Programming 
+- Learning Deep Learning and Artificial Intelligence
 - Looking to collaborate on projects that involve complex algorithms and data structures 
 
 <!---
